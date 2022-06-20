@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Data Structures.iml" filepath="$PROJECT_DIR$/.idea/Data Structures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Array/Dynamic Array.iml" filepath="$PROJECT_DIR$/Dynamic Array/Dynamic Array.iml" />
     </modules>
   </component>
 </project>
